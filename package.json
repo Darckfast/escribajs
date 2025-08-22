@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/refs/heads/master/src/schemas/json/package.json",
   "name": "escribajs",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Logging with steroids",
   "main": "src/index.js",
   "scripts": {
