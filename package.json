@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/refs/heads/master/src/schemas/json/package.json",
   "name": "escriba",
   "version": "3.0.2",
   "description": "Logging with steroids",
@@ -10,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pagarme/escriba.git"
+    "url": "git+https://github.com/Darckfast/escribajs.git"
   },
-  "author": "Pagar.me Pagamentos S/A",
+  "author": "Darckfast",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pagarme/escriba/issues"
+    "url": "https://github.com/Darckfast/escriba/issues"
   },
-  "homepage": "https://github.com/pagarme/escriba#readme",
+  "homepage": "https://github.com/Darckfast/escriba#readme",
   "dependencies": {
     "cuid": "^1.3.8",
     "iron-mask": "1.0.2",
@@ -46,6 +47,7 @@
   "peerDependencies": {
     "dd-trace": "3.41.0"
   },
+  "engineStrict": true,
   "engines": {
     "node": ">=14"
   }
