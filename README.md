@@ -225,9 +225,3 @@ The `log-generator` example will get Escriba library from npm. If you want to ge
 docker run -e ESCRIBA_TIMEOUT=3000 -p 3000:3000 -d -v $(cd ../../ && pwd):/escriba pagarme/log-generator:latest
 ```
 
-## License
-
-```
-The MIT License (MIT)
-Copyright (c) 2017 Pagar.me Pagamentos S/A
-```
