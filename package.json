@@ -47,6 +47,7 @@
   "peerDependencies": {
     "dd-trace": "3.41.0"
   },
+  "packageManager": "pnpm@10",
   "engineStrict": true,
   "engines": {
     "node": ">=14"
